@@ -3,7 +3,6 @@
 A simple chatserver using NodeJs / Express / Socket.IO
 
 <p align="center">
- <img src="http://img839.imageshack.us/img839/4701/lssg.png"></img>
  <img src="http://img819.imageshack.us/img819/3057/tx8l.png"></img>
 </p>
 
