@@ -26,7 +26,7 @@ node app.js
 
 Features:
 
-- New message received sound
+- Sound alert when you receive new message
 - Page title is flickering when you have new messages
 
 <h3>Copyright and license
