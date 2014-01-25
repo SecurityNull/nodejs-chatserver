@@ -2,8 +2,8 @@
 
 A simple chatserver using NodeJs / Express / Socket.IO
 
-<center><img src="http://img839.imageshack.us/img839/4701/lssg.png"></img>
-<img src="http://img819.imageshack.us/img819/3057/tx8l.png"></img></center>
+-><img src="http://img839.imageshack.us/img839/4701/lssg.png"></img><-
+-><img src="http://img819.imageshack.us/img819/3057/tx8l.png"></img><-
 
 <h3>Installation</h3>
 
@@ -21,7 +21,7 @@ node app.js
  
 <h3>Changelog</h3>
 
-<p>v1.0 Release (24.01.2014)</p>
+<p>v0.0.1 Release (24.01.2014)</p>
 
 Features:
 
