@@ -18,7 +18,7 @@ node app.js
 
 <h3>Bugs and feature requests</h3>
  
-<p>Have a bug or a feature request? Please create an <a href="https://github.com/SecurityNull/nodejs-chatserver/issues">issue</a> or contact us by <a href="mailto:bugs@securitynull.net">bugs@securitynull.net</a></p>
+<p>Have a bug or a feature request? Please create an <a href="https://github.com/SecurityNull/nodejs-chatserver/issues">issue</a> or contact us by <a href="mailto:projects@securitynull.net">projects@securitynull.net</a></p>
  
 <h3>Changelog</h3>
 
